@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+#output {
+  font-size: 24px;
+  font-weight: bold;
+}
